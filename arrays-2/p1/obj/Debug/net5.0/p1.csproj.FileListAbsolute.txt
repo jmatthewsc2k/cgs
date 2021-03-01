@@ -1,0 +1,16 @@
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\bin\Debug\net5.0\p1.exe
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\bin\Debug\net5.0\p1.deps.json
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\bin\Debug\net5.0\p1.runtimeconfig.json
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\bin\Debug\net5.0\p1.runtimeconfig.dev.json
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\bin\Debug\net5.0\p1.dll
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\bin\Debug\net5.0\ref\p1.dll
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\bin\Debug\net5.0\p1.pdb
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\p1.csprojAssemblyReference.cache
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\p1.AssemblyInfoInputs.cache
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\p1.AssemblyInfo.cs
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\p1.csproj.CoreCompileInputs.cache
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\p1.dll
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\ref\p1.dll
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\p1.pdb
+C:\Users\jamie_11s34c2\Documents\githere\cgs\arrays-2\p1\obj\Debug\net5.0\p1.genruntimeconfig.cache
